@@ -8,6 +8,7 @@
 #include <fcntl.h>
 //signal
 #include <signal.h>
+
 int main(){
  char str[1024];//입력받은 문자열
  char *text1=NULL;
